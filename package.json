@@ -1,0 +1,19 @@
+{
+  "name": "rest-api2",
+  "version": "1.0.0",
+  "description": "Rest API BackEnd Server2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrohhj/Rest-API2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrohhj/Rest-API2/issues"
+  },
+  "homepage": "https://github.com/rrohhj/Rest-API2#readme"
+}
